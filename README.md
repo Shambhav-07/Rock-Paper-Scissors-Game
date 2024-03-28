@@ -9,9 +9,10 @@ Clone the repository: git clone https://github.com/Shambhav-07/Rock-Paper-Scisso
 To play the game, simply click on one of the three options: Rock, Paper, or Scissors. The computer will randomly select its choice, and the winner will be determined based on the rules of the game.
 
 <h1>Features</h1>
-Simple and intuitive interface.<br>
-Single-player gameplay against the computer.<br>
-Change Theme
+<ul>
+<li>Simple and intuitive interface.</li><br>
+<li>Single-player gameplay against the computer.</li><br>
+<li>Change Theme.</li></ul>
 
 <h1>Contributing</h1>
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
