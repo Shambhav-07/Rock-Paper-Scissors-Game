@@ -10,8 +10,8 @@ To play the game, simply click on one of the three options: Rock, Paper, or Scis
 
 <h1>Features</h1>
 <ul>
-<li>Simple and intuitive interface.</li><br>
-<li>Single-player gameplay against the computer.</li><br>
+<li>Simple and intuitive interface.</li>
+<li>Single-player gameplay against the computer.</li><
 <li>Change Theme.</li></ul>
 
 <h1>Contributing</h1>
